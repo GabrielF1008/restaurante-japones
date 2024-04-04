@@ -1,2 +1,1 @@
-# restaurante-bootstrap
 # restaurante-japones
